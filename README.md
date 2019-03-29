@@ -6,6 +6,5 @@ To install this, go to `Preferences | Plugins`, click the gear, and select "inst
   
 Please note that this theme overrides your font settings. If you want to retain your old font settings, uncheck "Use color scheme font instead of the default" in `Preferences | Editor | Color Scheme | Color Scheme Font`.
 
-![Screenshot](screenshots/screenshot.png)  
 ![Screenshot](screenshots/screenshot-1.png)  
 ![Screenshot](screenshots/screenshot-2.png)
