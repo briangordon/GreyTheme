@@ -1,11 +1,10 @@
 <idea-plugin>
-  <id>com.jetbrains.grayTheme</id>
-  <name>Gray Theme</name>
+  <id>name.brian_gordon.greytheme</id>
+  <name>Grey Theme</name>
   <version>1.0.1</version>
-  <vendor email="olga.berdnikova@jetbrains.com" url="https://github.com/OlyaB">Olga Berdnikova</vendor>
 
   <description><![CDATA[
-  A low-contrast light theme with lots of space between text lines. Made for writing in Markdown inside IntelliJ IDEs.
+  A low-contrast light theme.
   <br/><br/>
 
   For version 2019.1 and above.
@@ -16,30 +15,11 @@
 
   To install:
   <ul>
-  <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+  <li>Go to <i>Settings (Preferences) | Plugins</i>, click the gear, and select "Install plugin from disk."</li>
   <li>Restart IDE</li>
   <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
   </ul>
-  <br/>
-
-  <a href="https://github.com/OlyaB/GreyTheme/issues">Report an issue</a> | <a href="https://github.com/OlyaB/GreyTheme">On GitHub</a> | <a href="http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_intro.html">How to make a theme</a>
-  <br/><br/><br/>
-
-  <img src="https://raw.githubusercontent.com/OlyaB/GreyTheme/master/screenshots/gray-main-window-java.png" border="0" width="700" alt="Main window Java screenshot">
-  <br/>
-  <img src="https://raw.githubusercontent.com/OlyaB/GreyTheme/master/screenshots/gray-main-window-markdown.png" border="0" width="700" alt="Main window Markdown screenshot">
-  <br/>
-  <img src="https://raw.githubusercontent.com/OlyaB/GreyTheme/master/screenshots/gray-settings.png" border="0" width="700" alt="Settings screenshot">
-      ]]></description>
-
-  <change-notes><![CDATA[
-  <b>1.0.1</b>
-  <ul>
-    <li>Add installation instructions</li>
-    <li>Unbundle plugin screenshots</li>
-  </ul>
-      ]]>
-  </change-notes>
+  ]]></description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>

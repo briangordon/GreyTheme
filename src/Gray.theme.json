@@ -1,9 +1,8 @@
 {
-  "name": "Gray",
+  "name": "Grey",
   "dark": false,
-  "author": "Olga Berdnikova",
 
-  "editorScheme": "/themes/grayScheme.xml",
+  "editorScheme": "/themes/brian.xml",
 
   "ui": {
     "*": {
@@ -79,7 +78,7 @@
 
     "DebuggerTabs.selectedBackground": "#F2F3F5",
 
-    "FileColor.Yellow": "#F5F0DF",
+    "FileColor.Yellow": "#f3f3f3",
     "FileColor.Green": "#E8F2DF",
 
     "Label.errorForeground": "#C7222D",
@@ -200,8 +199,6 @@
         "hoverBackground": "#D5D6D7"
       }
     },
-
-    "Tree.rowHeight": 22,
 
     "VersionControl": {
       "Log.Commit.currentBranchBackground": "#e6f0f2",
